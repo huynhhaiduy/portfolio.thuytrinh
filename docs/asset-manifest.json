@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio.thuytrinh/static/css/main.3495ca21.css",
+    "main.js": "/portfolio.thuytrinh/static/js/main.985c3b17.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio.thuytrinh/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio.thuytrinh/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main-1.jpeg": "/portfolio.thuytrinh/static/media/home-main-1.35e014dc548737c7e105.jpeg",
+    "static/media/history.png": "/portfolio.thuytrinh/static/media/history.3c23486dbd604eef9b72.png",
+    "static/media/kingSport.png": "/portfolio.thuytrinh/static/media/kingSport.69ed12ee6e864c36619c.png",
+    "static/media/lavie.png": "/portfolio.thuytrinh/static/media/lavie.85e7f98b1987f40ca119.png",
+    "static/media/LeThiThuyTrinh.pdf": "/portfolio.thuytrinh/static/media/LeThiThuyTrinh.4935a3cc8e87b6ea7116.pdf",
+    "static/media/leaf.png": "/portfolio.thuytrinh/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolio.thuytrinh/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolio.thuytrinh/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/vinasoy.png": "/portfolio.thuytrinh/static/media/vinasoy.f2ee02e8560cb39a50c2.png",
+    "static/media/logo_1.png": "/portfolio.thuytrinh/static/media/logo_1.29538f4571cbcf2a217c.png",
+    "static/media/codeEditor.png": "/portfolio.thuytrinh/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/openDay.png": "/portfolio.thuytrinh/static/media/openDay.8830bdb740d7dc61fc2a.png",
+    "static/media/blog.png": "/portfolio.thuytrinh/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about-trinh.png": "/portfolio.thuytrinh/static/media/about-trinh.a63c173e81884da7391b.png",
+    "static/media/chatify.png": "/portfolio.thuytrinh/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/portfolio.thuytrinh/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar-trinh.svg": "/portfolio.thuytrinh/static/media/avatar-trinh.530ed6590cf4df8120bf84faf9e3284f.svg",
+    "static/media/pre.svg": "/portfolio.thuytrinh/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio.thuytrinh/index.html",
+    "main.3495ca21.css.map": "/portfolio.thuytrinh/static/css/main.3495ca21.css.map",
+    "main.985c3b17.js.map": "/portfolio.thuytrinh/static/js/main.985c3b17.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio.thuytrinh/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio.thuytrinh/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3495ca21.css",
+    "static/js/main.985c3b17.js"
+  ]
+}
